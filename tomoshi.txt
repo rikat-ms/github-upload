@@ -1,0 +1,1 @@
+// [DevOps/GitHub Readiness] Azure DevOps services/server に触れていこう！ - 第六回: GitHub アカウントの作成とリポジトリへのファイル追加
